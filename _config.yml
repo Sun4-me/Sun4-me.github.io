@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Sun4-me # the main title
 
-tagline: Developer # it will display as the sub-title
+tagline: My path to becoming contributor from user # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Developer Sun4-me blog
